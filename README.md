@@ -23,9 +23,8 @@ A passionate Cloud devloper from West Bengal.
 [![](https://visitcount.itsvg.in/api?id=yudhajeetManna&icon=2&color=4)](https://visitcount.itsvg.in)
 
 
-![Ghost_of_Tsushima_Horse_Rider_Video](https://github.com/user-attachments/assets/4b4a71ef-726f-428c-9c18-a500ca3053e6)
 
-
+![ezgif com-speed (1)](https://github.com/user-attachments/assets/9086cd03-0315-4bec-98ea-34e2ef3430cf)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
