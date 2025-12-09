@@ -1,10 +1,6 @@
 # Hi 👋, I'm YudhajeetManna
 A passionate Cloud devloper from West Bengal.
 
-<p align="center">
-  <img src="PASTE_GITHUB_GIF_LINK_HERE" width="850">
-</p>
-
 
 
 # 💻 Tech Stack:
@@ -25,6 +21,12 @@ A passionate Cloud devloper from West Bengal.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yudhajeetManna&icon=2&color=4)](https://visitcount.itsvg.in)
+
+
+![Ghost_of_Tsushima_Horse_Rider_Video](https://github.com/user-attachments/assets/4b4a71ef-726f-428c-9c18-a500ca3053e6)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Snake animation](https://github.com/yudhajeetManna/yudhajeetManna/blob/output/github-contribution-grid-snake.svg)
