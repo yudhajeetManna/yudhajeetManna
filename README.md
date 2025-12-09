@@ -1,9 +1,6 @@
 # Hi 👋, I'm YudhajeetManna
 A passionate Cloud devloper from West Bengal.
 
-https://github.com/user-attachments/assets/fcf1cbc2-1d76-43ce-81f7-82f95d552fa7
-Pixelated_Samurai_GIF_for_GitHub.mp4
-
 <p align="center">
   <img src="PASTE_GITHUB_GIF_LINK_HERE" width="850">
 </p>
