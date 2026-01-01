@@ -23,10 +23,6 @@ A passionate Cloud devloper from West Bengal.
 [![](https://visitcount.itsvg.in/api?id=yudhajeetManna&icon=2&color=4)](https://visitcount.itsvg.in)
 
 
-
-![ezgif com-speed (1)](https://github.com/user-attachments/assets/9086cd03-0315-4bec-98ea-34e2ef3430cf)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Snake animation](https://github.com/yudhajeetManna/yudhajeetManna/blob/output/github-contribution-grid-snake.svg)
 
