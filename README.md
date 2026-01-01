@@ -1,5 +1,6 @@
 # Hi 👋, I'm YudhajeetManna
-A passionate Cloud devloper from West Bengal.
+A passionate Cloud Developer from West Bengal.
+![original-048120e7cf44d306103933e45dca170c](https://github.com/user-attachments/assets/9d143a3e-d8d5-4985-b5cd-5b7baceb0a76)
 
 
 
