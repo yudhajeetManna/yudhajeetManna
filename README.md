@@ -24,6 +24,6 @@ A passionate Cloud Developer from West Bengal.
 [![](https://visitcount.itsvg.in/api?id=yudhajeetManna&icon=2&color=4)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://github.com/yudhajeetManna/yudhajeetManna/blob/output/github-contribution-grid-snake.svg)
+## 🎮 My GitHub Activity Game
+![GitHub Space Shooter](game.gif)
 
