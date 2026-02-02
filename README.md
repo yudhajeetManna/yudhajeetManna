@@ -23,7 +23,10 @@ A passionate Cloud Developer from West Bengal.
 ---
 [![](https://visitcount.itsvg.in/api?id=yudhajeetManna&icon=2&color=4)](https://visitcount.itsvg.in)
 
-
-## 🎮 My GitHub Activity Game
+---
 ![GitHub Space Shooter](game.gif)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
 
