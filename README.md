@@ -18,5 +18,4 @@ A passionate Cloud Developer from West Bengal.
 
 ![GitHub Space Shooter](game.gif)
 
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yudhajeetManna&theme=tokyo-night)
