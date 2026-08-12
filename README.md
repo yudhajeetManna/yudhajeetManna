@@ -1,10 +1,65 @@
-# Hi 👋, I'm YudhajeetManna
-A passionate Cloud Developer from West Bengal.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=SHOGUN%20%7C%20NEODEV%20STUDIO&fontSize=40&fontColor=00F0FF&animation=fadeIn&fontAlignY=34&desc=Cloud%20Developer%20%E2%80%A2%20West%20Bengal%2C%20India&descAlignY=52&descSize=18"/>
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=760&height=80&lines=Hi+there%2C+I'm+Yudhajeet+%F0%9F%91%8B;Cloud+%26+Backend+Developer;AWS+%7C+MERN+%7C+Docker+%7C+DevOps;Building+distributed+systems+that+scale" alt="Typing SVG" />
+
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yudhajeetManna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=yudhajeetManna&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS"/>
+</p>
+
+
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+**☁️ Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,linux,nginx&theme=dark" />
+
+<br/><br/>
+
+**⚙️ Backend & Real-Time Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis,mongodb,firebase,postgres,graphql&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+<br/><br/>
+
+**💻 Languages & Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,react,html,css,bash&theme=dark" />
+
+<br/><br/>
+
+**🎨 Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,blender,postman,vscode&theme=dark" />
+
+</div>
+
+```yaml
+name: Yudhajeet Manna
+focus: [Cloud Engineering, Backend Systems, DevOps, Real-Time Architecture]
+currently_building:
+  - NexusChat — real-time distributed chat platform (Node.js, Socket.io, Redis, Docker, AWS EC2)
+  - DeployForge — CI/CD deployment platform with intelligent failure diagnosis
+  - Smart Island — Dynamic-Island-inspired desktop widget (Tauri v2, Rust, React)
+interests: [Cloud Infra, Distributed Systems, Music Production, PC Hardware]
+currently_learning: Advanced AWS & Infrastructure-as-Code
+```
 
 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yudhajeetManna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yudhajeetManna&theme=dark&hide_border=false)<br/>
