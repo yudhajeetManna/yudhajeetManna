@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=SHOGUN%20%7C%20NEODEV%20STUDIO&fontSize=40&fontColor=00F0FF&animation=fadeIn&fontAlignY=34&desc=Cloud%20Developer%20%E2%80%A2%20West%20Bengal%2C%20India&descAlignY=52&descSize=18"/>
-</div>
+
 
 <div align="center">
 
