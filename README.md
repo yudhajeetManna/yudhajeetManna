@@ -16,33 +16,28 @@
 
 ### 🛠️ Tech Arsenal
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="200"><b>☁️ Cloud & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,terraform,linux,nginx&theme=dark" /></td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="200"><b>⚙️ Backend & Real-Time</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,redis,mongodb,firebase,postgres,graphql&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/></td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="200"><b>💻 Languages & Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,react,html,css,bash&theme=dark" /></td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="200"><b>🎨 Tools & Design</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,figma,blender,postman,vscode&theme=dark" /></td>
+</tr>
+</table>
 
-**☁️ Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,linux,nginx&theme=dark" />
-
-<br/><br/>
-
-**⚙️ Backend & Real-Time Systems**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis,mongodb,firebase,postgres,graphql&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-
-<br/><br/>
-
-**💻 Languages & Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,react,html,css,bash&theme=dark" />
-
-<br/><br/>
-
-**🎨 Tools & Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,blender,postman,vscode&theme=dark" />
-
-</div>
 
 ```yaml
 name: Yudhajeet Manna
