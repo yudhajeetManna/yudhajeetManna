@@ -1,4 +1,4 @@
-
+<img width="670" height="65" alt="image" src="https://github.com/user-attachments/assets/0692ae50-50bc-45ab-9fa7-56c1e5c5cae5" />
 
 <div align="center">
 
@@ -21,22 +21,20 @@
 <td width="200"><b>☁️ Cloud & DevOps</b></td>
 <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,terraform,linux,nginx&theme=dark" /></td>
 </tr>
-<tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="200"><b>⚙️ Backend & Real-Time</b></td>
 <td><img src="https://skillicons.dev/icons?i=nodejs,express,redis,mongodb,firebase,postgres,graphql&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/></td>
 </tr>
-<tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="200"><b>💻 Languages & Frontend</b></td>
 <td><img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,react,html,css,bash&theme=dark" /></td>
 </tr>
-<tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="200"><b>🎨 Tools & Design</b></td>
 <td><img src="https://skillicons.dev/icons?i=git,github,figma,blender,postman,vscode&theme=dark" /></td>
 </tr>
 </table>
+
 
 
 ```yaml
