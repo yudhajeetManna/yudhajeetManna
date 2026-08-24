@@ -1,6 +1,3 @@
-<img width="670" height="65" alt="image" src="https://github.com/user-attachments/assets/0692ae50-50bc-45ab-9fa7-56c1e5c5cae5" />
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=760&height=80&lines=Hi+there%2C+I'm+Yudhajeet+%F0%9F%91%8B;Cloud+%26+Backend+Developer;AWS+%7C+MERN+%7C+Docker+%7C+DevOps;Building+distributed+systems+that+scale" alt="Typing SVG" />
 
